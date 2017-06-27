@@ -14,7 +14,7 @@ collate_walltime: 4:00:00
 collate_mem: 30GB
 collate_ncpus: 1
 collate_queue: copyq
-collate_flags: -n4 -z -m
+collate_flags: -n4 -z -m -x
 collate: true
 
 # Model config
@@ -22,7 +22,8 @@ model: mom
 shortpath: /short/v45
 exe: fms_MOM_SIS.intel14.fpe0.O2.ompi1.10.2
 input: 
-       - /short/v45/fbd581/mom/input/common
+       - mom10/mosaic
+       - mom10/common
        - /short/v45/fbd581/mom/input/CNYF_v2 
 
 # Misc
