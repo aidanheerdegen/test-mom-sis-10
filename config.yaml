@@ -1,7 +1,7 @@
 # PBS flags
 queue: express
-project: v45
-walltime: 0:30:00
+project: x77
+walltime: 1:00:00
 ncpus: 120
 mem: 128GB
 jobname: mom-sis-01
@@ -14,7 +14,7 @@ collate_walltime: 4:00:00
 collate_mem: 30GB
 collate_ncpus: 1
 collate_queue: copyq
-collate_flags: -n4 -z -m -x
+collate_flags: -n4 -z -m -r
 collate: true
 
 # Model config
@@ -28,3 +28,8 @@ input:
 
 # Misc
 stacksize: unlimited
+
+runlog:
+   username: aidanheerdegen
+
+postscript: sync_to_gdata.sh
