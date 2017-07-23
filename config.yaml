@@ -25,6 +25,7 @@ input:
        - mom10/mosaic
        - mom10/common
        - /short/v45/fbd581/mom/input/CNYF_v2 
+       - /g/data1/ua8/MOM/runoff/JRA55-do/v1-1/mom10/RYF9091
 
 # Misc
 stacksize: unlimited
@@ -32,4 +33,4 @@ stacksize: unlimited
 runlog:
    username: aidanheerdegen
 
-postscript: sync_to_gdata.sh
+# postscript: sync_to_gdata.sh
