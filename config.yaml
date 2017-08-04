@@ -14,7 +14,7 @@ collate_walltime: 4:00:00
 collate_mem: 30GB
 collate_ncpus: 1
 collate_queue: copyq
-collate_flags: -n4 -z
+collate_flags: -n4 -z -m
 collate: true
 
 # Model config
@@ -26,6 +26,7 @@ input:
        - mom10/common
        - /short/v45/fbd581/mom/input/CNYF_v2 
        - /g/data1/ua8/MOM/runoff/JRA55-do/v1-1/mom10/RYF9091
+       - mom10/mask_120/
 
 # Misc
 stacksize: unlimited
