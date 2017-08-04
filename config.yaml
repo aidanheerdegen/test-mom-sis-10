@@ -14,7 +14,7 @@ collate_walltime: 4:00:00
 collate_mem: 30GB
 collate_ncpus: 1
 collate_queue: copyq
-collate_flags: -n4 -z -m -r
+collate_flags: -n4 -z
 collate: true
 
 # Model config
