@@ -1,7 +1,7 @@
 "AusCOM_CMIP5"
 0001 01 01 0 0 0
 ## output files
-#"ocean_daily",                24,  "hours",  1, "days", "time",
+"ocean_daily",                24,  "hours",  1, "days", "time",
 "ocean_month",                 1,  "months", 1, "days", "time",
 "ocean_scalar",                1,  "months", 1, "days", "time"
 "ice_month",       	       1,  "months", 1, "days", "time",
@@ -38,10 +38,10 @@
  "ocean_model","geolon_t","geolon_t"  ,"ocean_month","all",.false.,"none",2
 #
 # geographical longitude and latitude of corner and tracer points (ocean_daily)
-# "ocean_model","geolat_c","geolat_c","ocean_daily","all",.false.,"none",2
-# "ocean_model","geolon_c","geolon_c","ocean_daily","all",.false.,"none",2
-# "ocean_model","geolat_t","geolat_t","ocean_daily","all",.false.,"none",2
-# "ocean_model","geolon_t","geolon_t","ocean_daily","all",.false.,"none",2
+"ocean_model","geolat_c","geolat_c","ocean_daily","all",.false.,"none",2
+"ocean_model","geolon_c","geolon_c","ocean_daily","all",.false.,"none",2
+"ocean_model","geolat_t","geolat_t","ocean_daily","all",.false.,"none",2
+"ocean_model","geolon_t","geolon_t","ocean_daily","all",.false.,"none",2
 #
 # horizontal area of tracer and velocity grid cells
  "ocean_model","area_t","area_t" ,"ocean_month","all",.false.,"none",2
@@ -106,7 +106,7 @@
  "ocean_model","surface_temp","sst"  ,"ocean_month","all",.true.,"none",2
 #
 # Rosetta stone: sst=sea_surface_temperature  (daily)
-# "ocean_model","surface_temp","sst"  ,"ocean_daily","all",.true.,"none",2
+"ocean_model","surface_temp","sst"  ,"ocean_daily","all",.true.,"none",2
 #
 # Rosetta stone: sst_sq=square_of_sea_surface_temperature (monthly)
  "ocean_model","squared_surface_temp","sst_sq"  ,"ocean_month","all",.true.,"none",2
