@@ -2,7 +2,7 @@
 queue: express
 project: x77
 walltime: 1:00:00
-ncpus: 120
+ncpus: 226
 mem: 128GB
 jobname: mom-sis-01
 qsub_flags: -W group_list=v45
@@ -26,7 +26,7 @@ input:
        - mom10/common
        - /short/v45/fbd581/mom/input/CNYF_v2 
        - /g/data1/ua8/MOM/runoff/JRA55-do/v1-1/mom10/RYF9091
-       - mom10/mask_120/
+       - mom10/mask_240/
 
 # Misc
 stacksize: unlimited
