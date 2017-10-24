@@ -1,9 +1,9 @@
 # PBS flags
 queue: express
 project: x77
-walltime: 1:00:00
-ncpus: 226
-mem: 128GB
+walltime: 3:00:00
+ncpus: 120
+mem: 240GB
 jobname: mom-sis-01
 qsub_flags: -W group_list=v45
 
@@ -13,7 +13,7 @@ qsub_flags: -W group_list=v45
 collate_walltime: 4:00:00
 collate_mem: 30GB
 collate_ncpus: 1
-collate_queue: copyq
+collate_queue: express
 collate_flags: -n4 -z -m
 collate: true
 
@@ -26,7 +26,7 @@ input:
        - mom10/common
        - /short/v45/fbd581/mom/input/CNYF_v2 
        - /g/data1/ua8/MOM/runoff/JRA55-do/v1-1/mom10/RYF9091
-       - mom10/mask_240/
+       - mom10/mask_120/
 
 # Misc
 stacksize: unlimited
