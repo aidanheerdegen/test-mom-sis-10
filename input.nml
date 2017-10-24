@@ -47,6 +47,12 @@
 	max_files_w = 700
 /
 
+ &mpp_io_nml
+        deflate_level = 5
+        shuffle = 1
+/
+
+
  &fms_nml
 	domains_stack_size = 115200
 	print_memory_usage = .FALSE.
