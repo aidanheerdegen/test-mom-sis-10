@@ -6,7 +6,7 @@ ncpus: 120
 mem: 240GB
 jobname: mom-sis-01
 qsub_flags: -W group_list=v45
-runspersub: 3
+# runspersub: 3
 
 #
 #collate_walltime: 10:00:00
