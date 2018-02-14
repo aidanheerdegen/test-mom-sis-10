@@ -25,9 +25,9 @@ exe: fms_MOM_SIS.intel14.fpe0.O2.ompi1.10.2
 input: 
        - mom10/mosaic
        - mom10/common
-       - /short/v45/fbd581/mom/input/CNYF_v2 
+       - /g/data/v45/mom/cnyf2
        - /g/data1/ua8/MOM/runoff/JRA55-do/v1-1/mom10/RYF9091
-       - mom10/mask_120/
+       # - mom10/mask_120/
 
 # Misc
 stacksize: unlimited
