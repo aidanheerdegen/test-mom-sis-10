@@ -1,0 +1,158 @@
+format: yamanifest
+version: 1.0
+---
+work/INPUT/README:
+  fullpath: /g/data1a/ua8/MOM/runoff/JRA55-do/v1-1/mom10/RYF9091/README
+  hashes:
+    binhash: 3a63d1d48ded10e972e19885cd2a316d
+    md5: 9d037a51dce17b23c04f13994f32728b
+work/INPUT/atmos_hgrid.nc:
+  fullpath: /short/v45/aph502/mom/input/mom10/mosaic/atmos_hgrid.nc
+  hashes:
+    md5: 492b4aa04d7d3afe424a8ce7f5063e62
+    nchash: 735cd130a989ad2c91edff42f33b5653
+work/INPUT/atmos_mosaic.nc:
+  fullpath: /short/v45/aph502/mom/input/mom10/mosaic/atmos_mosaic.nc
+  hashes:
+    md5: 808500cc6ed1c543dc934d7a4ca9a684
+    nchash: e3f7b93aa49dea4bcc0ab6a7738c9673
+work/INPUT/atmos_mosaicXland_mosaic.nc:
+  fullpath: /short/v45/aph502/mom/input/mom10/mosaic/atmos_mosaicXland_mosaic.nc
+  hashes:
+    md5: 3cb3c3ff4146350453a4e3ee4e0f1052
+    nchash: d249f9c56bcfb2dcc973e1bc3880efb0
+work/INPUT/atmos_mosaicXocean_mosaic.nc:
+  fullpath: /short/v45/aph502/mom/input/mom10/mosaic/atmos_mosaicXocean_mosaic.nc
+  hashes:
+    md5: dca7a4abb15c44d9ef2f7f5518fa2570
+    nchash: 5cc82ec87d1156a49ddb8e69ef7ecafb
+work/INPUT/basin_mask.nc:
+  fullpath: /projects/access/access-cm2/auscom/input/mom4/basin_mask_20111103.nc
+  hashes:
+    md5: 20fd8740f24ca95c7c086343077e9c0d
+    nchash: d70125cd146a67ee5e8ebb9270c3d8f3
+work/INPUT/chl.nc:
+  fullpath: /short/v45/aph502/mom/input/mom10/common/chl.nc
+  hashes:
+    md5: 99b68aec777292d746e4d93c2b976189
+    nchash: a89e5bcdcbaf5b21ee716966869370aa
+work/INPUT/grid_spec.nc:
+  fullpath: /short/v45/aph502/mom/input/mom10/mosaic/mosaic.nc
+  hashes:
+    md5: 027d2f8fb1eda3ef1cf0a3f520a217f7
+    nchash: b617cde1560628dff7ac46109253cba8
+work/INPUT/land_hgrid.nc:
+  fullpath: /short/v45/aph502/mom/input/mom10/mosaic/land_hgrid.nc
+  hashes:
+    md5: 492b4aa04d7d3afe424a8ce7f5063e62
+    nchash: 7580b250e940b5592491b47c1cfd7bd5
+work/INPUT/land_mosaic.nc:
+  fullpath: /short/v45/aph502/mom/input/mom10/mosaic/land_mosaic.nc
+  hashes:
+    md5: f7d0fdb81b56625cb2f06ae7740100ff
+    nchash: 520065abef11aa95447874849490172f
+work/INPUT/land_mosaicXocean_mosaic.nc:
+  fullpath: /short/v45/aph502/mom/input/mom10/mosaic/land_mosaicXocean_mosaic.nc
+  hashes:
+    md5: ccec958b996c68731d4d7ae7887384f8
+    nchash: d8546d94842870a3ba4e9dbfd07e8c5b
+work/INPUT/mosaic.nc:
+  fullpath: /short/v45/aph502/mom/input/mom10/mosaic/mosaic.nc
+  hashes:
+    md5: 027d2f8fb1eda3ef1cf0a3f520a217f7
+    nchash: b617cde1560628dff7ac46109253cba8
+work/INPUT/ncar_precip.nc:
+  fullpath: /g/data1a/v45/mom/cnyf2/ncar_precip.nc
+  hashes:
+    md5: 71235d8dac21cc62836c35c0c068923c
+    nchash: 8b78f61920c61d06fb3580e10841e568
+work/INPUT/ncar_rad.nc:
+  fullpath: /g/data1a/v45/mom/cnyf2/ncar_rad.nc
+  hashes:
+    md5: 0964b91c2b9f19295a23c2e00ab6ef0c
+    nchash: 7a36b8b147b27c576f78f6e7daa9c151
+work/INPUT/ocean_hgrid.nc:
+  fullpath: /short/v45/aph502/mom/input/mom10/mosaic/ocean_hgrid.nc
+  hashes:
+    md5: 51f58be0f4ea6da2cb438a893f95c689
+    nchash: 79a6a3697ba4a04bcde2656e40f6742c
+work/INPUT/ocean_mosaic.nc:
+  fullpath: /short/v45/aph502/mom/input/mom10/mosaic/ocean_mosaic.nc
+  hashes:
+    md5: cb42e630ee31d3686156fcbdc2f9d07c
+    nchash: 1cf8069b990cf1eff910e6322837951e
+work/INPUT/ocean_temp_salt.res.nc:
+  fullpath: /projects/access/access-cm2/auscom/input/mom4/ocean_temp_salt.20110518.nc
+  hashes:
+    md5: 55241e4f6d2f19a092adc9f5bec95087
+    nchash: 8e2d109f00114ce8e7bd3f29f3e0e337
+work/INPUT/ocean_vgrid.nc:
+  fullpath: /short/v45/aph502/mom/input/mom10/mosaic/ocean_vgrid.nc
+  hashes:
+    md5: 4541bee34f2020706ea86003cc56ac5c
+    nchash: af25a3e500e1f37f36a29bd7fdc984d8
+work/INPUT/q_10.nc:
+  fullpath: /g/data1a/v45/mom/cnyf2/q_10.nc
+  hashes:
+    md5: 09b6de3fd2555aa212fdbe1f2059c138
+    nchash: 7967d9dcc5734c4fb996199d4818414d
+work/INPUT/roughness_amp.nc:
+  fullpath: /projects/access/access-cm2/auscom/input/mom4/roughness_auscom_20080605_roughness_amp.nc
+  hashes:
+    md5: 185dadeb53da2de75b47c53fd7085f89
+    nchash: 4d7ca156c66dc7a951b24cc917388fb5
+work/INPUT/roughness_cdbot.nc:
+  fullpath: /short/v45/aph502/mom/input/mom10/common/roughness_cdbot.nc
+  hashes:
+    md5: 76fd562ceafd544215f19475e40ae79c
+    nchash: 8f29d10ed59791148bd069bc48d8c155
+work/INPUT/runoff_regrid.nc:
+  fullpath: /g/data1a/ua8/MOM/runoff/JRA55-do/v1-1/mom10/RYF9091/runoff_regrid.nc
+  hashes:
+    md5: 38f112e77107bfa5f9acf8b34c2218d2
+    nchash: 038426d1d32c5e3d563d563f30a21345
+work/INPUT/salt_sfc_restore.nc:
+  fullpath: /projects/access/access-cm2/auscom/input/mom4/salt_sfc_restore_20110829.nc
+  hashes:
+    md5: 32610826388053fd6a23ad52c9f6f568
+    nchash: be41cb789768301def8085f62cea6ec3
+work/INPUT/slp.nc:
+  fullpath: /g/data1a/v45/mom/cnyf2/slp.nc
+  hashes:
+    md5: 95232a02719417ca08c808eba1de26c2
+    nchash: fb7899a02c8d751245e6d9e4e5e973a8
+work/INPUT/sst_ice_clim.nc:
+  fullpath: /short/v45/aph502/mom/input/mom10/common/sst_ice_clim.nc
+  hashes:
+    md5: eea35547f8b836c678f75f75f8445a09
+    nchash: 883dca90a023bc5982c185c9cdd5ba3e
+work/INPUT/ssw_atten_depth.nc:
+  fullpath: /projects/access/access-cm2/auscom/input/mom4/seawifs_auscom_20111118_edit_time.nc
+  hashes:
+    md5: 3e88b51db135788aa4348d58cbeabfad
+    nchash: ce9653ebfbbc9dd8b5f78e5b176e3fd2
+work/INPUT/t_10.nc:
+  fullpath: /g/data1a/v45/mom/cnyf2/t_10.nc
+  hashes:
+    md5: 7e6fef9eb022b5f51e6e85cc78848db2
+    nchash: 5b7c8d38b0d16507111d29696fd028df
+work/INPUT/tideamp.nc:
+  fullpath: /projects/access/access-cm2/auscom/input/mom4/tides_auscom_20080605.nc
+  hashes:
+    md5: b2840af757d9b7b40207f33f1fc84c5c
+    nchash: 8bf91159ece9c29b502266aa953c57c4
+work/INPUT/topog.nc:
+  fullpath: /short/v45/aph502/mom/input/mom10/mosaic/topog.nc
+  hashes:
+    md5: ed5a7bc7481d62da566f28ab87a9a72c
+    nchash: 00069ef31d3a27cb65f007ddc42896c7
+work/INPUT/u_10.nc:
+  fullpath: /g/data1a/v45/mom/cnyf2/u_10.nc
+  hashes:
+    md5: 8b5b0c55c0a9e455be6fb8ee8d11c78a
+    nchash: 87297e6bef418e7678964faaf17d9912
+work/INPUT/v_10.nc:
+  fullpath: /g/data1a/v45/mom/cnyf2/v_10.nc
+  hashes:
+    md5: 6f4c414b7d7259bfe599b25b3b8089c0
+    nchash: 26b981a239277ce5bd5f1ccd791ad20e
