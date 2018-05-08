@@ -16,7 +16,7 @@ collate_mem: 30GB
 collate_ncpus: 1
 collate_queue: express
 collate_flags: -n4 -z -m -r
-collate: true
+collate: false
 
 # Model config
 model: mom
