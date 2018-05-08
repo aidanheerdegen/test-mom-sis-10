@@ -18,6 +18,8 @@ collate_queue: express
 collate_flags: -n4 -z -m -r
 collate: false
 
+archive: false
+
 # Model config
 model: mom
 shortpath: /short/v45
