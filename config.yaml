@@ -18,7 +18,7 @@ collate_queue: express
 collate_flags: -n4 -z -m -r
 collate: false
 
-archive: false
+archive: true
 
 # Model config
 model: mom
