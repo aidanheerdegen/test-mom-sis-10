@@ -20,6 +20,8 @@ collate: false
 
 archive: true
 
+exe_prefix: /short/public/aph502/env-wrapper.sh  
+
 # Model config
 model: mom
 shortpath: /short/v45
