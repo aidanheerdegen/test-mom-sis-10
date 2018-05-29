@@ -16,7 +16,7 @@ collate_mem: 30GB
 collate_ncpus: 1
 collate_queue: express
 collate_flags: -n4 -z -m
-collate: false
+collate: true
 
 archive: true
 
@@ -31,7 +31,7 @@ input:
        - mom10/common
        - /g/data/v45/mom/cnyf2
        - /g/data1/ua8/MOM/runoff/JRA55-do/v1-1/mom10/RYF9091
-       # - mom10/mask_120/
+       - mom10/mask_120/
 
 # Misc
 stacksize: unlimited
