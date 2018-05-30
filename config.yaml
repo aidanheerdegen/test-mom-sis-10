@@ -25,7 +25,7 @@ exe_prefix: /short/public/aph502/env-wrapper.sh
 # Model config
 model: mom
 shortpath: /short/v45
-exe: MOM5_SIS
+exe: fms_MOM_SIS.intel16
 input: 
        - mom10/mosaic
        - mom10/common
