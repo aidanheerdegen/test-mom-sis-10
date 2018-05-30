@@ -15,7 +15,7 @@ collate_walltime: 4:00:00
 collate_mem: 30GB
 collate_ncpus: 1
 collate_queue: express
-collate_flags: -n4 -z -m -r
+collate_flags: -n4 -z -m
 collate: true
 
 archive: true
@@ -25,7 +25,7 @@ exe_prefix: /short/public/aph502/env-wrapper.sh
 # Model config
 model: mom
 shortpath: /short/v45
-exe: fms_MOM_SIS.intel14.fpe0.O2.ompi1.10.2
+exe: MOM5_SIS
 input: 
        - mom10/mosaic
        - mom10/common
