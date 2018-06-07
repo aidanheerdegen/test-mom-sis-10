@@ -20,12 +20,12 @@ collate: true
 
 archive: true
 
-exe_prefix: /short/public/aph502/env-wrapper.sh  
+# exe_prefix: /short/public/aph502/env-wrapper.sh  
 
 # Model config
 model: mom
 shortpath: /short/v45
-exe: fms_MOM_SIS.intel16
+exe: fms_MOM_SIS.ryantest # fms_MOM_SIS.intel16
 input: 
        - mom10/mosaic
        - mom10/common
