@@ -25,7 +25,7 @@ archive: true
 # Model config
 model: mom
 shortpath: /short/v45
-exe: fms_MOM_SIS.ryantest # fms_MOM_SIS.intel16
+exe: fms_MOM_SIS.tweaklangmuir
 input: 
        - mom10/mosaic
        - mom10/common
