@@ -1,6 +1,6 @@
  &coupler_nml
-        months = 0,
-        days   = 1,
+        months = 3,
+        days   = 0,
         current_date = 1,1,1,0,0,0,
         calendar = 'noleap',
         dt_cpld = 3600,
@@ -79,7 +79,7 @@
        wd_turn=0.0
        do_icebergs = .false.
        layout = 10, 12
-       io_layout = 2,4
+       # io_layout = 2,4
 /
 
  &icebergs_nml
@@ -272,7 +272,7 @@
 	barotropic_split = 80
 	debug=.false.
     layout = 10, 12
-    io_layout = 2,4
+    # io_layout = 2,4
 /
 
  &ocean_momentum_source_nml
