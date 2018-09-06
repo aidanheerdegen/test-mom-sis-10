@@ -2,8 +2,8 @@
 queue: express
 project: v45
 walltime: 1:00:00
-ncpus: 120
-mem: 240GB
+ncpus: 113
+mem: 226GB
 jobname: mom-sis-01
 qsub_flags: -W group_list=v45
 runspersub: 5
