@@ -16,6 +16,7 @@ collate_ncpus: 1
 collate_queue: express
 collate_flags: -n4 -z -m
 collate: true
+collate_exe: mppnccombine
 
 archive: true
 
