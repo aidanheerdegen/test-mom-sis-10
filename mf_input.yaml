@@ -6,26 +6,6 @@ work/INPUT/README:
   hashes:
     binhash: 3a63d1d48ded10e972e19885cd2a316d
     md5: 9d037a51dce17b23c04f13994f32728b
-work/INPUT/atmos_hgrid.nc:
-  fullpath: /short/v45/aph502/mom/input/mom10/mosaic/atmos_hgrid.nc
-  hashes:
-    binhash: 0f708deeb9c50bb39fde4d4dc0e21bd5
-    md5: 492b4aa04d7d3afe424a8ce7f5063e62
-work/INPUT/atmos_mosaic.nc:
-  fullpath: /short/v45/aph502/mom/input/mom10/mosaic/atmos_mosaic.nc
-  hashes:
-    binhash: c96a0247e4c63844e60a68395dbeb8d9
-    md5: 808500cc6ed1c543dc934d7a4ca9a684
-work/INPUT/atmos_mosaicXland_mosaic.nc:
-  fullpath: /short/v45/aph502/mom/input/mom10/mosaic/atmos_mosaicXland_mosaic.nc
-  hashes:
-    binhash: babddb44b1d208df627a99d730c69204
-    md5: 3cb3c3ff4146350453a4e3ee4e0f1052
-work/INPUT/atmos_mosaicXocean_mosaic.nc:
-  fullpath: /short/v45/aph502/mom/input/mom10/mosaic/atmos_mosaicXocean_mosaic.nc
-  hashes:
-    binhash: dce22f9d611b43e16e528358481a8a90
-    md5: dca7a4abb15c44d9ef2f7f5518fa2570
 work/INPUT/basin_mask.nc:
   fullpath: /projects/access/access-cm2/auscom/input/mom4/basin_mask_20111103.nc
   hashes:
@@ -36,31 +16,16 @@ work/INPUT/chl.nc:
   hashes:
     binhash: 055ce73965d6d5b2f4c38a14d800ebfe
     md5: 99b68aec777292d746e4d93c2b976189
-work/INPUT/grid_spec.nc:
-  fullpath: /short/v45/aph502/mom/input/mom10/mosaic/mosaic.nc
+work/INPUT/ice_mask_table:
+  fullpath: /short/v45/aph502/mom/input/mom10/mask_120/mask_table.7.10x12
   hashes:
-    binhash: 5f6f623ba0ca5fae0b8a5e3700747b0c
-    md5: 027d2f8fb1eda3ef1cf0a3f520a217f7
-work/INPUT/land_hgrid.nc:
-  fullpath: /short/v45/aph502/mom/input/mom10/mosaic/land_hgrid.nc
+    binhash: 4122256962486f935c39d58ed412d32f
+    md5: b5580160dee0ade6a26111b4feecaf1e
+work/INPUT/mask_table.7.10x12:
+  fullpath: /short/v45/aph502/mom/input/mom10/mask_120/mask_table.7.10x12
   hashes:
-    binhash: c8e68340b312b36bc21792b9cad4a1bc
-    md5: 492b4aa04d7d3afe424a8ce7f5063e62
-work/INPUT/land_mosaic.nc:
-  fullpath: /short/v45/aph502/mom/input/mom10/mosaic/land_mosaic.nc
-  hashes:
-    binhash: 993935a4e5d0b3a791fa7517465b600e
-    md5: f7d0fdb81b56625cb2f06ae7740100ff
-work/INPUT/land_mosaicXocean_mosaic.nc:
-  fullpath: /short/v45/aph502/mom/input/mom10/mosaic/land_mosaicXocean_mosaic.nc
-  hashes:
-    binhash: 69bea8bd0437bed019c24ed9accd1b7f
-    md5: ccec958b996c68731d4d7ae7887384f8
-work/INPUT/mosaic.nc:
-  fullpath: /short/v45/aph502/mom/input/mom10/mosaic/mosaic.nc
-  hashes:
-    binhash: 5f6f623ba0ca5fae0b8a5e3700747b0c
-    md5: 027d2f8fb1eda3ef1cf0a3f520a217f7
+    binhash: 4122256962486f935c39d58ed412d32f
+    md5: b5580160dee0ade6a26111b4feecaf1e
 work/INPUT/ncar_precip.nc:
   fullpath: /g/data1a/v45/mom/cnyf2/ncar_precip.nc
   hashes:
@@ -71,26 +36,16 @@ work/INPUT/ncar_rad.nc:
   hashes:
     binhash: 037d434e2bac9d272335142fad57c819
     md5: 0964b91c2b9f19295a23c2e00ab6ef0c
-work/INPUT/ocean_hgrid.nc:
-  fullpath: /short/v45/aph502/mom/input/mom10/mosaic/ocean_hgrid.nc
+work/INPUT/ocean_mask_table:
+  fullpath: /short/v45/aph502/mom/input/mom10/mask_120/mask_table.7.10x12
   hashes:
-    binhash: ebf36ac2d65e71720d3886102c9c0966
-    md5: 51f58be0f4ea6da2cb438a893f95c689
-work/INPUT/ocean_mosaic.nc:
-  fullpath: /short/v45/aph502/mom/input/mom10/mosaic/ocean_mosaic.nc
-  hashes:
-    binhash: 50d0219fecbfd5ce67c3d279615a1910
-    md5: cb42e630ee31d3686156fcbdc2f9d07c
+    binhash: 4122256962486f935c39d58ed412d32f
+    md5: b5580160dee0ade6a26111b4feecaf1e
 work/INPUT/ocean_temp_salt.res.nc:
   fullpath: /projects/access/access-cm2/auscom/input/mom4/ocean_temp_salt.20110518.nc
   hashes:
     binhash: 71bdeda2ff56260f53eb187566596673
     md5: 55241e4f6d2f19a092adc9f5bec95087
-work/INPUT/ocean_vgrid.nc:
-  fullpath: /short/v45/aph502/mom/input/mom10/mosaic/ocean_vgrid.nc
-  hashes:
-    binhash: 16328a75f525a5631b36476416e6b033
-    md5: 4541bee34f2020706ea86003cc56ac5c
 work/INPUT/q_10.nc:
   fullpath: /g/data1a/v45/mom/cnyf2/q_10.nc
   hashes:
@@ -141,11 +96,6 @@ work/INPUT/tideamp.nc:
   hashes:
     binhash: 2302f7929a8c1c012734f174a6ceeb21
     md5: b2840af757d9b7b40207f33f1fc84c5c
-work/INPUT/topog.nc:
-  fullpath: /short/v45/aph502/mom/input/mom10/mosaic/topog.nc
-  hashes:
-    binhash: 932c8770efc724bcae7e4d82b5491a41
-    md5: ed5a7bc7481d62da566f28ab87a9a72c
 work/INPUT/u_10.nc:
   fullpath: /g/data1a/v45/mom/cnyf2/u_10.nc
   hashes:

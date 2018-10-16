@@ -1,8 +1,8 @@
 format: yamanifest
 version: 1.0
 ---
-work/fms_MOM_SIS.intel14.fpe0.O2.ompi1.10.2:
-  fullpath: /short/v45/aph502/mom/bin/fms_MOM_SIS.intel14.fpe0.O2.ompi1.10.2
+work/fms_MOM_SIS.tweaklangmuir:
+  fullpath: /short/v45/aph502/mom/bin/fms_MOM_SIS.tweaklangmuir
   hashes:
-    binhash: 74b079574d3160fd2024ca928f3097a0
-    md5: e10bf223ae2564701ae310d341bbe63b
+    binhash: b7f61c3591f9c48c08c58baf9228eeb6
+    md5: 1e15b216f17398b32590d96db3ab583a
