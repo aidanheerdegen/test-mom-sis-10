@@ -2,14 +2,13 @@
 queue: express
 project: v45
 walltime: 1:00:00
-ncpus: 113
+ncpus: 120
 mem: 226GB
 jobname: mom-sis-01
 qsub_flags: -W group_list=v45
 runspersub: 5
 
-#
-#collate_walltime: 10:00:00
+# #collate_walltime: 10:00:00
 #collate_mem: 16GB
 collate_walltime: 4:00:00
 collate_mem: 30GB
@@ -31,7 +30,7 @@ input:
        - mom10/common
        - /g/data/v45/mom/cnyf2
        - /g/data1/ua8/MOM/runoff/JRA55-do/v1-1/mom10/RYF9091
-       - mom10/mask_120/
+       # - mom10/mask_120/
 
 # Misc
 stacksize: unlimited
