@@ -2,58 +2,58 @@ format: yamanifest
 version: 1.0
 ---
 work/INPUT/coupler.res:
-  fullpath: /short/v45/aph502/mom/archive/test-mom-sis-10/restart001/coupler.res
+  fullpath: /short/v45/aph502/mom/archive/test-mom-sis-10/restart000/coupler.res
   hashes:
-    md5: 8b5372e128855d489546bfd08c1452f8
+    md5: c9e6aa5b0ebac5c2b6373c96b5080f87
 work/INPUT/ice_model.res.nc:
-  fullpath: /short/v45/aph502/mom/archive/test-mom-sis-10/restart001/ice_model.res.nc
+  fullpath: /short/v45/aph502/mom/archive/test-mom-sis-10/restart000/ice_model.res.nc
   hashes:
-    md5: 042ad4f959a4e7c48af1964aed3bed55
+    md5: e7abf1e30fb22ed6647749f9b244df78
 work/INPUT/ocean_age.res.nc:
-  fullpath: /short/v45/aph502/mom/archive/test-mom-sis-10/restart001/ocean_age.res.nc
+  fullpath: /short/v45/aph502/mom/archive/test-mom-sis-10/restart000/ocean_age.res.nc
   hashes:
-    md5: e7be01e01827fca41e5f6233d29c8982
+    md5: f338f6f210aa0ec16f3a1e73b60b48a3
 work/INPUT/ocean_barotropic.res.nc:
-  fullpath: /short/v45/aph502/mom/archive/test-mom-sis-10/restart001/ocean_barotropic.res.nc
+  fullpath: /short/v45/aph502/mom/archive/test-mom-sis-10/restart000/ocean_barotropic.res.nc
   hashes:
-    md5: 5a220467028426920f535df5b982bc4c
+    md5: 9ce46e85c7e83ee23aeb91f5b1ca13fb
 work/INPUT/ocean_bih_friction.res.nc:
-  fullpath: /short/v45/aph502/mom/archive/test-mom-sis-10/restart001/ocean_bih_friction.res.nc
+  fullpath: /short/v45/aph502/mom/archive/test-mom-sis-10/restart000/ocean_bih_friction.res.nc
   hashes:
-    md5: 7cd54e983682863668f63609f594fc6e
+    md5: 3b08637a1e12b866432572d25ec251fb
 work/INPUT/ocean_con_temp.res.nc:
-  fullpath: /short/v45/aph502/mom/archive/test-mom-sis-10/restart001/ocean_con_temp.res.nc
+  fullpath: /short/v45/aph502/mom/archive/test-mom-sis-10/restart000/ocean_con_temp.res.nc
   hashes:
-    md5: 9c56a3fd0a1b0e8ff3e8fea93875ee26
+    md5: 5c0082ae2e1cf5df67692fddaaeef96b
 work/INPUT/ocean_density.res.nc:
-  fullpath: /short/v45/aph502/mom/archive/test-mom-sis-10/restart001/ocean_density.res.nc
+  fullpath: /short/v45/aph502/mom/archive/test-mom-sis-10/restart000/ocean_density.res.nc
   hashes:
-    md5: 4270e7b132306bd94021d0c4de440632
+    md5: a8550cb2bd037449929e5b56249be139
 work/INPUT/ocean_frazil.res.nc:
-  fullpath: /short/v45/aph502/mom/archive/test-mom-sis-10/restart001/ocean_frazil.res.nc
+  fullpath: /short/v45/aph502/mom/archive/test-mom-sis-10/restart000/ocean_frazil.res.nc
   hashes:
-    md5: 9283ba3be3f3f1543d8fd35106df2c44
+    md5: 90ef620fdb83cca927d3e16329f81ea2
 work/INPUT/ocean_sbc.res.nc:
-  fullpath: /short/v45/aph502/mom/archive/test-mom-sis-10/restart001/ocean_sbc.res.nc
+  fullpath: /short/v45/aph502/mom/archive/test-mom-sis-10/restart000/ocean_sbc.res.nc
   hashes:
-    md5: bed964bec6ecff3732a3ad89f25b514d
+    md5: a9002f8df1169c65271bc3a3bb30c3c3
 work/INPUT/ocean_temp_salt.res.nc:
-  fullpath: /short/v45/aph502/mom/archive/test-mom-sis-10/restart001/ocean_temp_salt.res.nc
+  fullpath: /short/v45/aph502/mom/archive/test-mom-sis-10/restart000/ocean_temp_salt.res.nc
   hashes:
-    md5: 7072f1240a66575554b609e30e7eecaf
+    md5: 62739e2bbe1810e7a5983e884b3eaea1
 work/INPUT/ocean_thickness.res.nc:
-  fullpath: /short/v45/aph502/mom/archive/test-mom-sis-10/restart001/ocean_thickness.res.nc
+  fullpath: /short/v45/aph502/mom/archive/test-mom-sis-10/restart000/ocean_thickness.res.nc
   hashes:
-    md5: 43bedc88e79a5053076d5734740c9e36
+    md5: 84546fd301d798346daa773d964c4288
 work/INPUT/ocean_tracer.res:
-  fullpath: /short/v45/aph502/mom/archive/test-mom-sis-10/restart001/ocean_tracer.res
+  fullpath: /short/v45/aph502/mom/archive/test-mom-sis-10/restart000/ocean_tracer.res
   hashes:
-    md5: d7d8fbea8961ed1c84d5dd86b1bfce08
+    md5: 0f0d03f238de7541e2ce93fe13a95e7b
 work/INPUT/ocean_velocity.res.nc:
-  fullpath: /short/v45/aph502/mom/archive/test-mom-sis-10/restart001/ocean_velocity.res.nc
+  fullpath: /short/v45/aph502/mom/archive/test-mom-sis-10/restart000/ocean_velocity.res.nc
   hashes:
-    md5: 8ca326a1ee6a1938e90a9e9bde5b69a9
+    md5: 95ad689fa174f2ecc928240105cd9eb5
 work/INPUT/ocean_velocity_advection.res.nc:
-  fullpath: /short/v45/aph502/mom/archive/test-mom-sis-10/restart001/ocean_velocity_advection.res.nc
+  fullpath: /short/v45/aph502/mom/archive/test-mom-sis-10/restart000/ocean_velocity_advection.res.nc
   hashes:
-    md5: dc207a946f15be2a142ffbe54a8b85bf
+    md5: 198a416e1226d16c82e317ec45510094
